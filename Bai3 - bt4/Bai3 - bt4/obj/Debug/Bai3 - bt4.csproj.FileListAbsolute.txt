@@ -1,0 +1,11 @@
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\bin\Debug\Bai3 - bt4.exe.config
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\bin\Debug\Bai3 - bt4.exe
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\bin\Debug\Bai3 - bt4.pdb
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3 - bt4.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3___bt4.frmChinh.resources
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3___bt4.Properties.Resources.resources
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3 - bt4.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3 - bt4.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3 - bt4.exe
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3 - bt4.pdb
+C:\Users\PC602\Downloads\Bai3 - bt4\Bai3 - bt4\obj\Debug\Bai3___bt4.Form1.resources
